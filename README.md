@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 🥳 I’m looking to collaborate on new projects.
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/ömer-fatih-mehmet-sizer-096948281/
-- 😄 Pronouns: hi/him.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I enjoy coding!
 
 <!---
