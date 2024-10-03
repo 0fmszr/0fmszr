@@ -4,7 +4,7 @@
 - 🥳 I’m looking to collaborate on new projects.
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/ömer-fatih-mehmet-sizer-096948281/
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I enjoy coding!
+- ⚡ Fun fact: I wanna learn linux!!
 
 <!---
 0fmszr/0fmszr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
