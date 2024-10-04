@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0fmszr.
-- 👀 I’m interested in chess and movies.
+- 👀 I’m interested chess and movies.
 - 🌱 I’m currently learning JavaScript.
 - 🥳 I’m looking to collaborate on new projects.
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/ömer-fatih-mehmet-sizer-096948281/
